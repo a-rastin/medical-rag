@@ -1,11 +1,11 @@
 # RAG-Anything + LightRAG WebUI
 
 A multimodal RAG system ([HKUDS/RAG-Anything](https://github.com/hkuds/rag-anything))
-over the UpToDate headache PDFs in `.drugs/RAG`, served through the
+over the UpToDate headache PDFs in `resources/`, served through the
 [LightRAG Server](https://github.com/HKUDS/LightRAG) WebUI.
 
 ```
-.drugs/RAG/*.PDF
+resources/*.PDF
    │  mineru parse --tier flash        (layout-aware PDF → markdown, cached in output/)
    ▼
 RAG-Anything content list              ({"type":"text","page_idx":N,...})
@@ -35,6 +35,7 @@ above were probed and work. All configuration lives in `.env`.
 ## Quick start
 
 ```bash
+# 0) Drop raw PDFs into resources/ (the ingest step reads them from there)
 # 1) Parse + index the PDFs (cached; re-run is incremental & deduped)
 venv/bin/python rag_system.py ingest
 
@@ -61,6 +62,7 @@ and the Knowledge Graph tab renders the extracted entities.
 | `nim_proxy.py` | NIM adapter for lightrag-server (disables reasoning mode) |
 | `start_webui.sh` / `stop_webui.sh` | WebUI lifecycle |
 | `.env` | Keys, models, ports, paths |
+| `resources/` | Raw source files (PDFs) — also the server's upload dir |
 | `rag_storage/` | LightRAG index (graphml + vectors + KV) — delete to rebuild |
 | `output/` | Cached MinerU parses (`*.mineru.md`) |
 | `logs/`, `run/` | Server logs and pid files |

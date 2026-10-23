@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-RAG-Anything pipeline for the UpToDate headache PDFs in .drugs/RAG.
+RAG-Anything pipeline for the UpToDate headache PDFs in resources/.
 
 How it works
 ------------
@@ -60,7 +60,7 @@ VISION_MODEL = os.environ.get("VISION_MODEL", "nvidia/nemotron-3-nano-omni-30b-a
 
 WORKING_DIR = Path(os.environ.get("WORKING_DIR", PROJECT_ROOT / "rag_storage"))
 OUTPUT_DIR = Path(os.environ.get("OUTPUT_DIR", PROJECT_ROOT / "output"))
-DEFAULT_DOCS_DIR = Path(os.environ.get("DRUGS_DIR", PROJECT_ROOT / ".drugs" / "RAG"))
+DEFAULT_DOCS_DIR = Path(os.environ.get("RESOURCES_DIR", PROJECT_ROOT / "resources"))
 
 SERVER_HOST = os.environ.get("HOST", "127.0.0.1")
 SERVER_PORT = int(os.environ.get("PORT", "9621"))
@@ -299,7 +299,7 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="RAG-Anything ingestion & query CLI")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
-    p_ing = sub.add_parser("ingest", help="parse and index PDFs")
+    p_ing = sub.add_parser("ingest", help="parse and index PDFs from resources/")
     p_ing.add_argument("--dir", default=str(DEFAULT_DOCS_DIR))
     p_ing.add_argument("--force", action="store_true", help="re-parse even if cached")
 

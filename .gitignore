@@ -16,8 +16,9 @@ rag_storage/
 # Cached MinerU PDF parses — regenerable via `ingest --force`
 output/
 
-# Source PDFs (UpToDate reprints — not redistributable)
-.drugs/
+# Raw source files (UpToDate reprints — not redistributable)
+resources/*
+!resources/.gitkeep
 
 # Python
 __pycache__/

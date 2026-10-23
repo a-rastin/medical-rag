@@ -10,8 +10,9 @@ run/
 *.log
 *.pid
 
-# LightRAG index — regenerable via `venv/bin/python rag_system.py ingest`
-rag_storage/
+# LightRAG index is committed on purpose: it is the materialised RAG index
+# (graph + vectors + KV) and cannot be reproduced byte-identically by
+# re-ingesting, since LLM extraction is non-deterministic.
 
 # Cached MinerU PDF parses — regenerable via `ingest --force`
 output/

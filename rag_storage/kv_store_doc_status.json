@@ -1,0 +1,166 @@
+{
+  "doc-703e79f63eacd865a6093b2e33f4e67a": {
+    "status": "processed",
+    "chunks_count": 23,
+    "chunks_list": [
+      "chunk-2878ee960479fec5e0fd7c97d6d44f85",
+      "chunk-cfaea66e0e1b59fcf11083fdc86fa505",
+      "chunk-9781a20ce9291545e13c64cc40854f23",
+      "chunk-a4041840a72080e115133366da601ba0",
+      "chunk-f034fb31d8b9231647be0271fbbe11ff",
+      "chunk-b20a73b1bf34e686ee6652ff377b531a",
+      "chunk-5254cc12db8ae366992b8abc63e9bce0",
+      "chunk-3968d482efd321ce0e71494d6d8cbde6",
+      "chunk-d38115148b4b0478b2ff0c5f850bbcb7",
+      "chunk-81f90692986dfb1f830a27d0b7536f61",
+      "chunk-81fbead48486691cf5945207e3542587",
+      "chunk-288c1ac0daa4f8d9e6711072456bf290",
+      "chunk-c97fa32b2d7b605eb00ea730f0821e9f",
+      "chunk-22a7faa6dc2428acdd3ea3c1593916bb",
+      "chunk-eced74bbae68c4d04d0938805d606b4f",
+      "chunk-9666bb1f91905773a4411559f12b0410",
+      "chunk-e4bdd16b737b7973c6581c7cc92604b7",
+      "chunk-27dde5a0572eb3184020966c72e61c89",
+      "chunk-df12cd945c38984efea15b2addfde26f",
+      "chunk-ca64ee464064b0ec87b1acd587b7d970",
+      "chunk-0c43e57d7c9eb41cc91c89593e5618e6",
+      "chunk-27096fcb7fa30c9fea180ea7b54f322c",
+      "chunk-74803e1d9bd621760a74773f08649443"
+    ],
+    "content_summary": "**Acute treatment of migraine in adults**\n\nAuthors:\n\nTodd J Schwedt, MD, MSCI Ivan Garza, MD\n\nSection Editor: Jerry W Swanson, MD, MHPE\n\nDeputy Editor: Richard P Goddeau, Jr, DO, FAHA\n\n## INTRODUCTION\n\n## —\n\nMigraine is a common episodic disorder, th...",
+    "content_length": 105325,
+    "created_at": "2026-10-22T23:22:35.292486+00:00",
+    "updated_at": "2026-10-22T23:24:41+00:00",
+    "file_path": "iMD - Uptodate - Acute treatment of migraine in adults(1).PDF",
+    "track_id": "insert_20261022_232235_67f361d2",
+    "metadata": {
+      "processing_start_time": 1792711355,
+      "processing_end_time": 1792711481
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  },
+  "doc-638cf924cddd1a01ec94497651456065": {
+    "status": "processed",
+    "chunks_count": 15,
+    "chunks_list": [
+      "chunk-604091b1b25ec431b6eb74ffe266e830",
+      "chunk-9064f1ec2a51a8fb5fc12ef54afba305",
+      "chunk-f8aa2f95b44d688508b19c8d0fcbc4f3",
+      "chunk-2f74beccf3932fc999c5da6217dd983e",
+      "chunk-e431a39c5b3ac9ad50817fd6694435f0",
+      "chunk-ba771d788f7481cea05e87c2e085913d",
+      "chunk-075c9514b73c9528ed6f8491b449ee40",
+      "chunk-8fcccbfac9c2ef745a159d63b88ddc90",
+      "chunk-697366b5ec6fccd401f60e32f476bcb8",
+      "chunk-7cddaa60186a583b48d21588a10557f5",
+      "chunk-0a3bc3f7fc9283c8a89abea7bd6a2953",
+      "chunk-feb1965a69687b7da4c479723318f38b",
+      "chunk-e949ceaa91563d5020dfddbce0137142",
+      "chunk-7f561f3e1980fae1e2fbac5ed5564517",
+      "chunk-1bcde2da429cc0d5c293fedea4e0af9b"
+    ],
+    "content_summary": "**Cluster headache: Treatment and prognosis**\n\nAuthor:\n\nArne May, MD\n\nSection Editor: Jerry W Swanson, MD, MHPE\n\nDeputy Editor: Richard P Goddeau, Jr, DO, FAHA\n\n## INTRODUCTION\n\n## —\n\nCluster headache belongs to the trigeminal autonomic cephalalgias ...",
+    "content_length": 66645,
+    "created_at": "2026-10-22T23:24:56.672166+00:00",
+    "updated_at": "2026-10-22T23:26:28+00:00",
+    "file_path": "iMD - Uptodate - Cluster headache_ Treatment and prognosis.PDF",
+    "track_id": "insert_20261022_232456_7bd6dbdd",
+    "metadata": {
+      "processing_start_time": 1792711496,
+      "processing_end_time": 1792711587
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  },
+  "doc-46a91a6ca3bd33e40fa248d0f9db07e9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-46a91a6ca3bd33e40fa248d0f9db07e9",
+      "chunk-d61ad759e65d31104e19ee42ca2643f2"
+    ],
+    "content_summary": "**Cannot miss diagnoses in the ED patient with acute or severe headache**\n\n## Diagnosis\n\n## History\n\n## Suggestive clinical findings\n\nSubarachnoid hemorrhage\n\nThunderclap onset; severe pain at onset; transient loss of\n\nconsciousness; severe neck pain...",
+    "content_length": 7625,
+    "created_at": "2026-10-22T23:26:33.395709+00:00",
+    "updated_at": "2026-10-22T23:27:09+00:00",
+    "file_path": "iMD_Uptodate_Cannot_miss_diagnoses_in_the_ED_patient_with_acute.PDF",
+    "track_id": "insert_20261022_232633_fc3ae503",
+    "metadata": {
+      "processing_start_time": 1792711593,
+      "processing_end_time": 1792711628
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  },
+  "doc-c843eee421b0ff9ddca5fec1a5a3934d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c843eee421b0ff9ddca5fec1a5a3934d"
+    ],
+    "content_summary": "**Clinical features of headache associated with serious pathology**\n\nHistory\nExplosive onset and severe at onset\nNo similar headaches in the past\nConcomitant infection\nAltered mental status or seizure\nAssociated with exertion (eg, exercise, sexual in...",
+    "content_length": 697,
+    "created_at": "2026-10-22T23:27:11.196478+00:00",
+    "updated_at": "2026-10-22T23:27:27+00:00",
+    "file_path": "iMD_Uptodate_Clinical_features_of_headache_associated_with_serious.PDF",
+    "track_id": "insert_20261022_232711_72e9115f",
+    "metadata": {
+      "processing_start_time": 1792711631,
+      "processing_end_time": 1792711647
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  },
+  "doc-469ba9f85eff0d1ef2fc5b0807c28e01": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-469ba9f85eff0d1ef2fc5b0807c28e01"
+    ],
+    "content_summary": "**Emergency evaluation of the adult with new nontraumatic headache**\n\nThe evaluation of new-onset nontraumatic headache involves assessing for secondary (eg, structural, inflammatory) causes as well as identifying primary headache syndromes.\n\nSAH: su...",
+    "content_length": 856,
+    "created_at": "2026-10-22T23:27:30.532752+00:00",
+    "updated_at": "2026-10-22T23:27:49+00:00",
+    "file_path": "iMD_Uptodate_Emergency_evaluation_of_the_adult_with_new_nontraumatic.PDF",
+    "track_id": "insert_20261022_232730_8b8209e8",
+    "metadata": {
+      "processing_start_time": 1792711650,
+      "processing_end_time": 1792711669
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  },
+  "doc-bd8e762679ab7da8d77d11a8685e6710": {
+    "status": "processed",
+    "chunks_count": 14,
+    "chunks_list": [
+      "chunk-7d7e2a1fa6fae352f798fe0d6e8e0e62",
+      "chunk-88449f41c18acfddbc679b10a20feb42",
+      "chunk-ccbcc20d04c05bb1a254eb147d0d3a3f",
+      "chunk-44f11db3bcd7ce2dafa15cd85b96c021",
+      "chunk-62e03c9a26baa74eae064a1bded7c588",
+      "chunk-d93c3ae2e3eb96980253ed880c4042a8",
+      "chunk-d3b99ec17053435d72311359e33c6696",
+      "chunk-62c387dc1abd6c2085428bd5bab9c2b4",
+      "chunk-4b923e6b3f5a46729e0154937dbba3c5",
+      "chunk-36b9bf57cb93bcd7302da2d7f4b4041b",
+      "chunk-764b1321ae6bc951a2c8d2de5901567f",
+      "chunk-e0b3b281b34d994290b07d55d736c0fd",
+      "chunk-67064a19688d3727bfd01270acdcdada",
+      "chunk-5058f1af8388633f609cadb75a75dc9d"
+    ],
+    "content_summary": "**Evaluation of the adult with nontraumatic headache in the emergency department**\n\nAuthors:\n\nF Michael Cutrer, MD Franz J Wippold II, MD, FACR Jonathan A Edlow, MD, FACEP\n\nSection Editors: Korilyn S Zachrison, MD, MSc Jerry W Swanson, MD, MHPE\n\nDepu...",
+    "content_length": 66395,
+    "created_at": "2026-10-22T23:28:04.516817+00:00",
+    "updated_at": "2026-10-22T23:29:35+00:00",
+    "file_path": "iMD_Uptodate_Evaluation_of_the_adult_with_nontraumatic_headache.PDF",
+    "track_id": "insert_20261022_232804_00fa1f72",
+    "metadata": {
+      "processing_start_time": 1792711684,
+      "processing_end_time": 1792711774
+    },
+    "error_msg": "",
+    "multimodal_processed": true
+  }
+}

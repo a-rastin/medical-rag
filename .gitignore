@@ -1,0 +1,28 @@
+# Virtual environment (892M, regenerable)
+venv/
+
+# Secrets
+.env
+
+# Runtime state: logs, pid files, server workdirs
+logs/
+run/
+*.log
+*.pid
+
+# LightRAG index — regenerable via `venv/bin/python rag_system.py ingest`
+rag_storage/
+
+# Cached MinerU PDF parses — regenerable via `ingest --force`
+output/
+
+# Source PDFs (UpToDate reprints — not redistributable)
+.drugs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
